@@ -1,0 +1,5 @@
+{
+  "name": "PurePath Sync",
+  "description": "A minimalist day counter with 24h lock, 48h reset, and cloud sync for phone and laptop.",
+  "requestFramePermissions": []
+}
